@@ -1,0 +1,76 @@
+Part 1: Introduction to Software Engineering
+
+Q: Explain what software engineering is and discuss its importance in the technology industry.
+Software Engineering is the systematic application of engineering principles to the design, development, maintenance, testing, and evaluation of software. It ensures software is reliable, efficient, scalable, and  to meet the user requirements.
+
+The importance of software Engineering is it helps the technology industry stems from the growing demand for complex, high-quality software systems that drive innovation across sectors, from healthcare to finance to entertainment.
+
+Q:Identify and describe at least three key milestones in the evolution of software engineering.
+
+Key Milestones in Software Engineering
+
+Creation of High-Level Languages (1950s-1960s): Languages like FORTRAN and COBOL allowed developers to write more abstract and understandable code compared to machine languages.
+
+Structured Programming (1960s-1970s): This milestone introduced practices that emphasized modularity, improving code readability and maintainability.
+Agile Manifesto (2001): The introduction of Agile methodologies revolutionized how teams approach iterative development, with an emphasis on collaboration and flexibility.
+
+
+Q:List and briefly explain the phases of the Software Development Life Cycle.
+
+Phases of the Software Development Life Cycle (SDLC)
+Planning: Establishing project goals, scope, and resources.
+Requirements: Gathering functional and non-functional requirements from stakeholders.
+Design: Creating the architecture of the system, including UI/UX design.
+Implementation: Writing and building the software code.
+Testing: Ensuring the software works as intended through various tests.
+Deployment: Releasing the software to production.
+Maintenance: Continuously improving and fixing bugs in the software.
+
+
+Q:Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+Waterfall vs. Agile Methodologies
+Waterfall: Linear, sequential approach. Best for well-defined projects with stable requirements (e.g., building an embedded system).
+Agile: Iterative, flexible approach. Best for projects with evolving requirements (e.g., developing a mobile app with frequent updates).
+
+Q:Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Roles and Responsibilities in a Software Engineering Team
+Software Developer: Writes, tests, and maintains code, implementing software features based on requirements.
+Quality Assurance Engineer: Tests software to identify bugs and ensures quality through various testing methodologies.
+Project Manager: Coordinates the team, manages timelines, and ensures the project meets business goals and deadlines.
+
+
+Q:Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Importance of IDEs and VCS in Software Development
+IDEs (Integrated Development Environments): Tools like Visual Studio Code or IntelliJ provide a suite of functionalities like code completion, debugging, and error checking, making development efficient.
+VCS (Version Control Systems): Tools like Git allow developers to track changes, collaborate on code, and manage versions, ensuring code integrity and smooth collaboration
+
+Q:What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Challenges in Software Engineering and Solutions
+Common Challenges: Handling complex requirements, meeting deadlines, technical debt, and cross-team collaboration.
+Strategies: Breaking down tasks into smaller chunks, clear communication, adopting Agile practices, and refactoring code regularly to reduce technical debt.
+
+
+Q:Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Types of Testing in Software Quality Assurance
+Unit Testing: Testing individual units of code.
+Integration Testing: Ensuring that combined modules work together.
+System Testing: Testing the entire system as a whole.
+Acceptance Testing: Verifying the system meets business requirements and is ready for delivery.
+
+
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+
+Q:Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt Engineering is the practice of designing and refining prompts to effectively communicate with AI models, ensuring that they provide accurate and relevant responses.
+
+
+Q:Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague Prompt: "Tell me about coding."
+
+Improved Prompt: "Explain the differences between Python and Java in terms of syntax and use cases for backend development."
+
+Why Improved: The specific details guide the AI to focus on the right topics (Python vs. Java, syntax, backend development), leading to a more accurate and useful response.
